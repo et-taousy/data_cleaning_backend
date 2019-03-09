@@ -21,6 +21,8 @@ from data_cleaning.root_app import views
 
 router = routers.DefaultRouter()
 router.register(r'users', views.UserViewSet)
+router.register(r'addresses', views.AddressViewSet)
+
 router.register(r'groups', views.GroupViewSet)
 
 # Wire up our API using automatic URL routing.

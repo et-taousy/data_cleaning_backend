@@ -1,0 +1,5 @@
+ReferenceDB*.csv
+/dist/
+/node_modules/
+*.pyc
+__pycache__/

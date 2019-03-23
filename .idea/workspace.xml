@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615ab309-dbbd-4a1a-9d46-9351e2411c3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data_cleaning/media/ReferenceDB.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_cleaning/root_app/cors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning/root_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning/root_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning/root_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning/root_app/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning/root_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning/root_app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +37,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_cleaning/root_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+            <state relative-caret-position="166">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -105,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -175,8 +167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_cleaning/root_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+        <state relative-caret-position="166">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>

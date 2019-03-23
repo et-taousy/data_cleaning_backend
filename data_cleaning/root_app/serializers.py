@@ -17,7 +17,7 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class AddressSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Address
-        fields = ('way', 'company', 'Street_number', 'zip', 'city', 'country','byScrapy')
+        fields = ('street', 'company', 'Street_number', 'zip', 'city', 'country','byScrapy')
 
 class FileSerializer(serializers.ModelSerializer):
     class Meta:

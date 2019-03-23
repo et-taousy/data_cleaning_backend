@@ -2,7 +2,7 @@
 
 Clean an input file from duplicate and corrupted data.
 
-# Intall app
+# install app
 
 make sur that python3 and pip3 are installed
 

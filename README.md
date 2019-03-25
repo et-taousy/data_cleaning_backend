@@ -12,7 +12,14 @@ git clone https://github.com/et-taousy/data_cleaning_backend.git
 
 cd data_cleaning
 
+# Activate pip environnement
+
+ . env/bin/activate
+
+# install requirements modules
+
 pip3 install -r requirements.txt
+
 
 # run app
 

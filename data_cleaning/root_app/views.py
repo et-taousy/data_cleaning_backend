@@ -54,13 +54,13 @@ class FileUploadView(APIView):
                     else:
                         print(f'\t{row[0]} works in the {row[1]} department, and was born in {row[2]}.')
                         address = Address()
-                        address.company = row[0]
-                        address.street = row[1]
-                        address.city = row[2]
-                        address.state = row[3]
+                        address.company = row[1]
+                        address.street = row[2]
+                        address.city = row[3]
+                        address.state = row[4]
                         address.zip = int(0)
                         address.byScrapy = False
-                        address.country = row[5]
+                        address.country = row[6]
                         address.save()
                         line_count += 1
                 print(f'Processed {line_count} lines.')

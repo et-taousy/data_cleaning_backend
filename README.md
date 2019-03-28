@@ -21,7 +21,7 @@ cd data_cleaning
 pip3 install -r requirements.txt
 
 
-# run app
+# run app!
 
 python3 manage.py runserver
 

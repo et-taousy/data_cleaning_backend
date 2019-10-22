@@ -37,7 +37,7 @@ numpy==1.14.2
 OWSLib==0.16.0
 panda==0.3.1
 parsel==1.5.1
-Pillow==5.2.0
+Pillow==6.2.0
 plotly==2.5.1
 psycopg2==2.7.4
 psycopg2-binary==2.7.5
